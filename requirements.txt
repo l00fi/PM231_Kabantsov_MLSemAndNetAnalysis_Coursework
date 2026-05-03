@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+torch
+torchtext
+wordcloud
+scikit-learn
+optuna
+rank_bm25
