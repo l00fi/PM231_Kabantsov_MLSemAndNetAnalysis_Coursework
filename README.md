@@ -1,4 +1,4 @@
-# Семантический анализ научных публикаций для рекомендации релевантных статей и kNN/ML-моделей 📚🧠
+# Семантический анализ научных публикаций для рекомендации релевантных статей и kNN/ML-моделей
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -53,7 +53,7 @@
 Нейросетевая модель успешно перевела тексты в математическое пространство смыслов, выявив скрытые контекстуальные связи, недоступные статистическим методам поиска.
 
 ## Запуск проекта
-1. Клонируйте репозиторий: `git clone https://github.com/ВашЮзернейм/ВашРепозиторий.git`
+1. Клонируйте репозиторий: `git clone https://github.com/l00fi/PM231_Kabantsov_MLSemAndNetAnalysis_Coursework`
 2. Скачайте набор данных `arxiv-metadata-oai-snapshot.json` с Kaggle и поместите в корень проекта.
 3. Скачайте файл весов `glove.6B.100d.txt` и поместите в корень проекта.
 4. Установите зависимости: `pip install -r requirements.txt` *(создайте файл, указав библиотеки из стека)*.
